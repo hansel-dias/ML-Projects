@@ -32,6 +32,9 @@ The data preprocessing steps performed in the script include:
 
 ## Movie Recommendation
 
+![App Screenshot](template\images\app_screenshot.png)
+
+
 The movie recommendation system recommends movies based on user input. You can provide a movie title, and the system will find similar movies based on cosine similarity scores. The top five recommended movies will be displayed.
 
 ## Files
