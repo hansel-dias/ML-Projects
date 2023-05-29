@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-![App Screenshot](.template\images\app_screenshot.png)
+![App Screenshot](template\images\app_screenshot.png")
 
 
 This is a movie recommendation system built using Python. The system utilizes a movie dataset to provide recommendations based on user input.
