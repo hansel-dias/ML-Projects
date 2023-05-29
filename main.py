@@ -79,4 +79,4 @@ if st.button('Recommend'):
               
 
 
-# st.write('You selected:', movie_selected)
+st.write('You selected:', movie_selected)
